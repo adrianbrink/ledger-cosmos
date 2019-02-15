@@ -48,3 +48,20 @@ src/goclient/goclient
 src/ledger/pkgdemo/loaddemo\.sh
 
 src/ledger/pkgdemo/app\.hex
+
+# build files
+CMakeCache.txt
+CMakeFiles/
+CTestTestfile.cmake
+Makefile
+cmake/gtest/CMakeFiles/
+cmake/gtest/CTestTestfile.cmake
+cmake/gtest/Makefile
+cmake/gtest/cmake_install.cmake
+cmake_install.cmake
+googletest-build/
+googletest-download/
+googletest-src/
+test_user
+test_val
+Testing/
